@@ -12,8 +12,8 @@ title                    : "Steven C. Hespeler, Ph.D."
 title_separator          : "-"
 name                     : &name "Steven Christopher Hespeler"
 description              : &description "Ph.D. Industrial Engineer"
-url                      : https://TovNephesh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://TovNephesh.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/stevenhespeler" # the subpath of your site, e.g. "/blog"
 repository               : "TovNephesh/stevenhespeler.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
