@@ -7,39 +7,74 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
+# Steven C. Hespeler
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+---
+**Ph.D. in Industrial Engineering**, New Mexico State University, 2020 (expected)  
+* **Dissertation Title:** "*Online State of Charge Prediction in Next-Generation Hybrid Vehicle Batteries Using Deep Recurrent Neural Networks and Continuous Model Size Control*"  
+* **Advisor:** Dr. Donovan Fuqua
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.S. in Industrial Engineering**, New Mexico State University, 2012  
+* **Project Title:** "*Statistical Analysis of Novel Wood-Polymer Composite of Chile Fibers and HDPE*"  
+* **Advisor:** Dr. Delia Valles
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.S. in Engineering**, Roger Williams University, 2008  
+* **Senior Design Project:** "*Utilizing Innovative Technologies to Convert an Existing Commercial Building into a Green Building*"  
+* **Advisor:** Dr. Linda Riley
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
+---
+**June 2023 – Present: Data Scientist, Computers and Computer Science Directorate, Mathematics in Computation Section**  
+Oak Ridge National Laboratory (ORNL)  
+* Conducting research on Controller Area Network (CAN) data with a focus on time-series cross-validation (TSCV) and anomaly detection. The work applies machine learning techniques for the analysis of time-series data collected from automotive and other cyber-physical systems, and involves optimization and evaluation of model performance in the context of fault detection in vehicle CAN systems.
+
+**Jan 2021 – May 2023: Data Scientist, Civil Engineering Department**  
+New Mexico State University, Department of Civil Engineering  
+* Focused on applying Deep Learning techniques to civil engineering problems, such as predictive modeling and sensor data analysis in civil infrastructure systems. Contributed to research that involved using acoustic emissions and ultrasound signals for structural health monitoring, and developed algorithms for real-time analysis of these signals.
+
+**Fall 2020: Research Assistant**  
+New Mexico State University, Department of Civil Engineering  
+* Conducted research on Deep Learning techniques applied to civil engineering applications, particularly in predictive modeling and sensor data analysis.
+
+**Spring 2018: Graduate Assistant**  
+New Mexico State University  
+* Monitored 3D printing lab and provided support in the development and execution of 3D printing projects.
+
+**Fall/Summer 2017: Graduate Assistant**  
+New Mexico State University  
+* Assisted in lab operations, managing and guiding students in 3D printing technologies and applications.
+
+## Skills & Expertise
+---
+**Machine Learning & Data Science**
+  * Data Structures & Algorithms  
+  * Time-Series Models  
+  * Deep Learning (RNN, CNN, LSTM, Autoencoders)  
+  * Model Evaluation & Validation (TSCV, Cross-validation)
+
+**Statistical Analysis**
+  * ANOVA/MANOVA  
+  * Design of Experiments (DOE)  
+  * Hypothesis Testing  
+  * Regression & Statistical Inference  
+
+**Operations Research & Optimization**
+  * Linear & Nonlinear Programming  
+  * Dynamic & Continuous-Time Optimal Control  
+  * Simulation Modeling & Decision Analysis
+
+**Software & Tools**
+  * Python (NumPy, Pandas, Scikit-learn, TensorFlow)  
+  * Matlab, R, Minitab  
+  * AutoCAD, NX, SolidWorks  
+  * LaTeX, Microsoft Office Suite  
+
+**Additional Skills**
+  * Data Visualization (Matplotlib, Plotly)  
+  * Cloud Computing (AWS, Google Cloud)  
+  * High-Performance Computing (HPC)  
+  * Git/GitHub Version Control
 
 Publications
 ======
