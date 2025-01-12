@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Steven C. Hespeler
-======
+
 ## Education
 ---
 **Ph.D. in Industrial Engineering**, New Mexico State University, 2020 (expected)  
@@ -75,6 +75,13 @@ New Mexico State University
   * Cloud Computing (AWS, Google Cloud)  
   * High-Performance Computing (HPC)  
   * Git/GitHub Version Control
+
+## Awards and Memberships
+---
+* Alpha Pi Mu - Industrial Engineering Honor Society  
+* Engineer in Training (E.I.T.)  
+* [Intel Design Innovation Award](https://www.rwu.edu/sites/default/files/rwumagazine_inaugural.pdf) (2008 WERC competition)  
+
 
 Publications
 ======
