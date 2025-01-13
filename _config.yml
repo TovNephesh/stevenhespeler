@@ -24,7 +24,13 @@ author:
   avatar           : "2023-P06359.jpg"
   name             : "Steven C. Hespeler"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : |
+                    Steven C. Hespeler
+                    [Computer Science and Mathematics Division]{https://www.ornl.gov/staff-profile/steven-c-hespeler}
+                    1 Bethel Valley Road
+                    Oak Ridge, TN 37830
+                    Office: 
+                    Phone:
   location         : "Oak Ridge, TN, USA"
   employer         : "Oak Ridge National Laboratory"
   uri              : # URL
