@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I'm Steven Hespeler, welcome to my personal page! I recently completed my doctoral degree at New Mexico State University. Here, you'll find some information about me like my research interests, professional CV, publications, and more. Thank you for visiting and please contact me with any inquires!! Have a great day!!
+Hello! I'm Steven Hespeler, welcome to my personal page! I recently completed my doctoral degree at New Mexico State University. Here, you'll find some information about me like my research interests, professional CV, publications, and more. Thank you for visiting and have a great day!!
 
 ## My Research and Work
 My research is centered around the application of data science and machine learning techniques to solve complex problems in engineering, with a particular emphasis on signal processing and time-series analysis. Throughout my academic and professional career, I have applied advanced methods to analyze and interpret various types of data, including ultrasound and acoustic emission signals, as well as Controller Area Network (CAN) data in automotive systems. My work has involved developing innovative algorithms, such as the Continuous Lag Control (CLC) algorithm for optimizing training data in deep learning models, and applying these techniques to real-world engineering problems, from hybrid electric vehicle diagnostics to non-destructive testing in civil engineering. The integration of signal processing with machine learning methods has been a critical component of my research, enabling more accurate and reliable predictions and improving system diagnostics in diverse domains.
