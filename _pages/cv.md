@@ -13,11 +13,11 @@ redirect_from:
 ---
 **Ph.D. in Industrial Engineering**, New Mexico State University, 2020 (expected)  
 * **Dissertation Title:** "*Online State of Charge Prediction in Next-Generation Hybrid Vehicle Batteries Using Deep Recurrent Neural Networks and Continuous Model Size Control*"  
-* **Advisor:** [Dr. Donovan Fuqua](#)
+* **Advisor:** [Dr. Donovan Fuqua](https://business.nmsu.edu/faculty-research/donovan-fuqua.html)
 
 **M.S. in Industrial Engineering**, New Mexico State University, 2012  
 * **Project Title:** "*Statistical Analysis of Novel Wood-Polymer Composite of Chile Fibers and HDPE*"  
-* **Advisor:** [Dr. Delia Valles](#)
+* **Advisor:** [Dr. Delia Valles](https://www.researchgate.net/profile/Delia-Valles-Rosales)
 
 **B.S. in Engineering**, Roger Williams University, 2008  
 * **Senior Design Project:** "*Utilizing Innovative Technologies to Convert an Existing Commercial Building into a Green Building*"  
