@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+---
 # Steven C. Hespeler
-[CV](http://tovnephesh.github.io/stevenhespeler/files/CV_Hespeler.pdf)
+---
+
+[My CV](http://tovnephesh.github.io/stevenhespeler/files/CV_Hespeler.pdf)
 
 ## Education
 ---
