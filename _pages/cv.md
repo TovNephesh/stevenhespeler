@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Steven C. Hespeler
-[CV](http://tovnephesh.github.io/files/CV_Hespeler.pdf)
+[CV](http://tovnephesh.github.io/stevenhespeler/files/CV_Hespeler.pdf)
 
 ## Education
 ---
