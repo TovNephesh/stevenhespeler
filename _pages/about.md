@@ -18,3 +18,10 @@ My research has evolved significantly across my academic and professional career
 After completing my PhD, I joined the Civil Engineering Department at NMSU as a postdoc, where I worked in the Non-Destructive Evaluation Lab. There, I applied data science methods to analyze acoustic emission and ultrasound signals for material defect detection. This research contributed to robotic inspection and additive manufacturing, utilizing advanced signal processing techniques to enhance quality control and structural integrity assessment.
 
 In my second postdoc at Oak Ridge National Laboratory (ORNL), I worked in the Computer Science and Mathematics Department as a data scientist, where my focus shifted towards automotive cyber-physical systems. I worked extensively with Controller Area Network (CAN) data, applying machine learning methods and Time-Series Cross Validation (TSCV) to fault detection. This research aimed to improve real-time diagnostic capabilities for vehicle networks, helping to predict and identify faults in a timely manner to enhance system reliability.
+
+### Journal Referee
+
+Expert Systems
+IEEE Transactions on Automation Science and Engineering
+Sensors
+IEEE Transactions on Green Communications and Networking
