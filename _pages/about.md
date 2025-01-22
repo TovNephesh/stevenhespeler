@@ -21,7 +21,7 @@ In my second postdoc at Oak Ridge National Laboratory (ORNL), I worked in the Co
 
 ### Journal Referee
 
-Expert Systems
-IEEE Transactions on Automation Science and Engineering
-Sensors
-IEEE Transactions on Green Communications and Networking
+- Expert Systems
+- IEEE Transactions on Automation Science and Engineering
+- Sensors
+- IEEE Transactions on Green Communications and Networking
